@@ -8,6 +8,6 @@ var cars = [
 // of every car in the cars array.
 
 
- for (var i = 0; i < cars.length; i++); {
-   console.log(cars);
- };
+ for (var i = 0; i < cars.length; i++) {
+   console.log(cars[i][0]);
+ }

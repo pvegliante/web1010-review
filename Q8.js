@@ -8,7 +8,7 @@
 
 
 function plus10(num){
-  return (num + 10);
+  return num + 10;
 };
 
 console.log(plus10(4));

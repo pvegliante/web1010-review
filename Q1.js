@@ -8,7 +8,8 @@
 // between them. You must use the firstName and lastName variables.
 
 
-var firstName = 'pete'
-var lastName = 'vegliante'
+var firstName = 'pete';
+var lastName = 'vegliante';
+var fullName = firstName + " " + lastName;
 
-console.log(firstName, lastName);
+console.log(fullName);
